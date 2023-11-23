@@ -1,0 +1,186 @@
+.login {
+    background-color: #121212;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .login .div {
+    background-color: #121212;
+    height: 932px;
+    position: relative;
+    width: 430px;
+  }
+  
+  .login .esqueceu-sua-senha {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 716px;
+  }
+  
+  .login .text-wrapper {
+    color: #ffffff;
+  }
+  
+  .login .span {
+    color: #0558f6;
+  }
+  
+  .login .text-wrapper-2 {
+    color: #0558f6;
+    text-decoration: underline;
+  }
+  
+  .login .entrar {
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 628px;
+    width: 342px;
+  }
+  
+  .login .overlap-group {
+    background-color: #0558f6;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+  }
+  
+  .login .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 140px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+  }
+  
+  .login .imput-usurio {
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 361px;
+    width: 342px;
+  }
+  
+  .login .overlap {
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    height: 59px;
+    position: relative;
+    width: 340px;
+  }
+  
+  .login .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .login .vector {
+    height: 7px;
+    left: 22px;
+    position: absolute;
+    top: 30px;
+    width: 16px;
+  }
+  
+  .login .img {
+    height: 9px;
+    left: 25px;
+    position: absolute;
+    top: 19px;
+    width: 9px;
+  }
+  
+  .login .imput-senha {
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 450px;
+    width: 342px;
+  }
+  
+  .login .overlap-group-2 {
+    height: 19px;
+    left: 22px;
+    position: absolute;
+    top: 19px;
+    width: 16px;
+  }
+  
+  .login .vector-2 {
+    height: 11px;
+    left: 0;
+    position: absolute;
+    top: 8px;
+    width: 16px;
+  }
+  
+  .login .vector-3 {
+    height: 10px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 10px;
+  }
+  
+  .login .logo {
+    height: 137px;
+    left: 133px;
+    position: absolute;
+    top: 108px;
+    width: 162px;
+  }
+  
+  .login .imput-ID {
+    height: 59px;
+    left: 45px;
+    position: absolute;
+    top: 539px;
+    width: 342px;
+  }
+  
+  .login .overlap-group-3 {
+    height: 16px;
+    left: 23px;
+    position: absolute;
+    top: 21px;
+    width: 16px;
+  }
+  
+  .login .vector-4 {
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 16px;
+  }
+  
+  .login .vector-5 {
+    height: 16px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 8px;
+  }
+  
